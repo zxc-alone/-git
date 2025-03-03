@@ -42,8 +42,8 @@ Git помогает разработчикам параллельно рабо�
 * ```git branch -D <название ветки>``` - удалить ветку принудительно
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
-![Изображение logo GIT]((https://yandex.ru/images/search?text=logo+github&img_url=https%3A%2F%2Fwww.umn.ac.id%2Fwp-content%2Fuploads%2F2023%2F07%2F62a1ac70484ab90ae870152b_github-4.png&pos=2&rpt=simage&serp_list_type=all&stype=image&lr=213&family=yes&parent-reqid=1740991691951677-12651306199078495167-balancer-l7leveler-kubr-yp-klg-122-BAL&source=serp) "Логотип Git")
-
+![Изображение logo GIT]([3] "Логотип Git")
+[3]:https://yandex.ru/images/search?text=logo+github&img_url=https%3A%2F%2Fwww.umn.ac.id%2Fwp-content%2Fuploads%2F2023%2F07%2F62a1ac70484ab90ae870152b_github-4.png&pos=2&rpt=simage&serp_list_type=all&stype=image&lr=213&family=yes&parent-reqid=1740991691951677-12651306199078495167-balancer-l7leveler-kubr-yp-klg-122-BAL&source=serp
 ## Команды для работы с git
 * git init – инициализация локального репозитория
 * git status – получить информацию от git о его текущем состоянии
