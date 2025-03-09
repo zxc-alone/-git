@@ -42,11 +42,11 @@ Git помогает разработчикам параллельно рабо�
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
 ![Изображение logo GIT](https://avatars.mds.yandex.net/i?id=908dfcc3bf6a002b0732f40d5e927fa2_l-9065974-images-thumbs&n=13)
-![Изображение](img/gitCheckout.png)
-![Изображение](gitLog.png)
-![Изображение](gitStatus.png)
-![Изображение](vetki1.png)
-![Изображение](slivanie.png)
+![Изображение]([img/gitCheckout.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitCheckout.png))
+![Изображение]([gitLog.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitLog.png))
+![Изображение]([gitStatus.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitStatus.png))
+![Изображение]([vetki1.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/vetki1.png))
+![Изображение]([slivanie.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/slivanie.png))
 ## Команды для работы с git
 * git init – инициализация локального репозитория
 * git status – получить информацию от git о его текущем состоянии
