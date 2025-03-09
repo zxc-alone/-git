@@ -42,7 +42,7 @@ Git помогает разработчикам параллельно рабо�
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
 ![Изображение logo GIT](https://avatars.mds.yandex.net/i?id=908dfcc3bf6a002b0732f40d5e927fa2_l-9065974-images-thumbs&n=13)
-![Изображение]([img/gitCheckout.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitCheckout.png))
+![Изображение](https://github.com/zxc-alone/img/blob/5a0c81ac8e43622ef5f2383a96e6706724007349/gitCheckout.png)
 ![Изображение]([gitLog.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitLog.png))
 ![Изображение]([gitStatus.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/gitStatus.png))
 ![Изображение]([vetki1.png](https://raw.githubusercontent.com/zxc-alone/img/refs/heads/main/vetki1.png))
