@@ -462,4 +462,4 @@ Enter passphrase (empty for no passphrase):
 делать таблицы.
 И ещё одно небольшое примечание. Если вы форматируете текст с помощью HTML-тегов или форматируете код тремя обратными апострофами, то Markdown будет автоматически пытаться искать закрывающий символ — то есть будет придумывать, куда его поставить, даже если у вас его нет. Остальные симметричные символы (*_~`) работают в пределах одной строки.
 
-![img](https://github.com/zxc-alone/img/blob/be30fa15259adecaeb8a229396fb415035cb27e1/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%B0%D0%BC.pdf)
+![Шпаргалка по коммитам.pdf](https://github.com/zxc-alone/img/blob/be30fa15259adecaeb8a229396fb415035cb27e1/%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%B0%D0%BC.pdf)
